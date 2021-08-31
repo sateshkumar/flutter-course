@@ -12,8 +12,6 @@ class LoginPage extends StatelessWidget {
           Image.asset('assets/images/login.png'),
           Image.asset('assets/images/login.png'),
           Image.asset('assets/images/login.png'),
-          Image.asset('assets/images/login.png'),
-          Image.asset('assets/images/login.png')
         ],
       ),
     );
